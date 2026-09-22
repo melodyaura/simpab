@@ -9,6 +9,6 @@
    "service_role" / "secret" di berkas ini.
    ===================================================================== */
 window.SIMPAB_CONFIG = {
-  SUPABASE_URL: 'https://GANTI-DENGAN-PROJECT-ANDA.supabase.co',
-  SUPABASE_ANON_KEY: 'GANTI-DENGAN-ANON-KEY-ANDA'
+  SUPABASE_URL: 'https://jockejqjxibkkyowslkx.supabase.co',
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpvY2tlanFqeGlia2t5b3dzbGt4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAwODcxMzQsImV4cCI6MjEwNTY2MzEzNH0._SokDSmsIXyZ3HtwS8MaTw12I3AGlf0_cdXf9DxbW_o'
 };
